@@ -1,0 +1,2 @@
+D:\代码\智慧营维\WisdomAutoTest\WisdomAutoTest\obj\Release\WisdomAutoTest.csproj.CoreCompileInputs.cache
+D:\代码\智慧营维\WisdomAutoTest\WisdomAutoTest\obj\Release\WisdomAutoTest.csprojResolveAssemblyReference.cache
